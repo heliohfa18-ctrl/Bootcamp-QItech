@@ -2,9 +2,9 @@
 
 | | |
 |---|---|
-| **Time** | \<nome 1\> · Luan Camargo de Souza · \<nome 3\> |
-| **Data** | \<dd/mm/aaaa\> |
-| **Versão** | \<1, 2, 3… — suba o número quando o desenho mudar\> |
+| **Time** | Helio Henrique Feitoza Alves · Luan Camargo de Souza · Murilo Lugli |
+| **Data** | 13/10/2026 |
+| **Versão** | 1 |
 
 > **Como usar este modelo** *(apague este bloco antes de entregar)*
 >
