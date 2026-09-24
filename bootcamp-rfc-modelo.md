@@ -2,7 +2,7 @@
 
 | | |
 |---|---|
-| **Time** | \<nome 1\> · \<nome 2\> · \<nome 3\> |
+| **Time** | \<nome 1\> · Luan Camargo de Souza · \<nome 3\> |
 | **Data** | \<dd/mm/aaaa\> |
 | **Versão** | \<1, 2, 3… — suba o número quando o desenho mudar\> |
 
